@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+modules.xml
+NestJS_Study.iml
+vcs.xml
+.DS_Store
+codeStyles
+Project.xml
+.idea
+codeStyleConfig.xml
