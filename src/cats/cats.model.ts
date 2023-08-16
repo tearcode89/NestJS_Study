@@ -14,7 +14,7 @@ export const Cat: CatType[] = [
         id: 'fsduifh',
         name: 'blue',
         age: 8,
-        species: 'Russian Blue (러시안 블루)',
+        species: 'Russian Blue (러시>안 블루)',
         isCute: true,
         friends: ['asdfhj29009', 'WE09tju2j'],
     },
