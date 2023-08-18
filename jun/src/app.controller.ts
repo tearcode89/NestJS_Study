@@ -14,7 +14,7 @@ export class AppController {
     console.log(req);
     console.log(body);
     console.log(param);
-    return '술끊기';
-    //return this.appService.getHello();
+    // return '술끊기';
+    return this.appService.getHello();
   }
 }
